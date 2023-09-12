@@ -4,12 +4,12 @@ I'm a creative problem solving guy with a very effective communication and team 
 
 I have more than 4 years of experience in web development and more than 10 years working with tecnology and consulting. I worked for tech and non-tech companies, startups, creative agencies and as a freelancer. I have an extensive knowledge in several fields, involving consulting, creativity and technology. 
 &nbsp;
-<div style="margin-top: 20px">
+<div>
 <a href="https://github.com/webersonloureiro">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=webersonloureiro&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=webersonloureiro&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" />
 </a>
 <a href="https://github.com/webersonloureiro">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webersonloureiro&layout=compact&card_width=320&theme=material-palenight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webersonloureiro&layout=compact&card_width=320&theme=material-palenight" />
 </a>
 </div>
 &nbsp;
