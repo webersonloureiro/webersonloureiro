@@ -35,9 +35,9 @@ I have more than 4 years of experience in web development and more than 10 years
 
 ### 💻 Contact
 <div>
-  <a hre="https://weberson.dev/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" align="center"></a>&nbsp;
-  <a hre="mailto:weberson.loureiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>&nbsp;
-  <a hre="https://www.linkedin.com/in/webersonloureiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"></a>
+  <a href="https://weberson.dev/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" align="center"></a>&nbsp;
+  <a href="mailto:weberson.loureiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/webersonloureiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"></a>
 </div>
 
           
