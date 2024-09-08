@@ -1,8 +1,12 @@
 ### 🚀 About me
 
-I'm a creative problem solving guy with a very effective communication and team work skills. I constantly challenge myself to try and learn new things.
+I'm a creative problem-solving guy with a very effective communication and teamwork skills. I'm a very hard working professional - and yes, I believe that hard working is greater than talent alone.
 
-I have more than 4 years of experience in web development and more than 10 years working with tecnology and consulting. I worked for tech and non-tech companies, startups, creative agencies and as a freelancer. I have an extensive knowledge in several fields, involving consulting, creativity and technology. 
+I'm passionate about creating visually impressive and functional web applications, delivering great user experiences through clean code and innovative designs. Attention to detail is essential!
+
+I constantly challenge myself to try and learn new things.
+
+I have more than 5 years of experience in web development and over 10 years working with technology and consulting. I worked for tech and non-tech companies, startups, creative agencies and as a freelancer. I have an extensive knowledge in several fields, involving consulting, creativity, marketing, and technology. 
 &nbsp;
 <div>
 <a href="https://github.com/webersonloureiro">
@@ -17,11 +21,15 @@ I have more than 4 years of experience in web development and more than 10 years
 
 ### 🏆 Skills
 
-**WordPress**: Theme, plugin and WP CLI development, WooCommerce, Elementor, OceanWP and CMB2.<br />
-**Front-end**: HTML5, CSS3, SASS/LESS, GULP/GRUNT, NPM, JavaScript, Bootstrap and Tailwind CSS.<br />
-**Back-end**: PHP, MySQL<br />
-**Infra**: Linux, Docker<br />
-**Others**: GIT, PhotoShop, Illustrator, Adobe XD
+**WordPress**: Themes, Plugins, WP CLI, and Gutenberg Blocks custom development. 
+Page Builders: Gutenberg Block Editor and Elementor (also creating custom Elementor widgets). 
+e-Commerce: WooCommerce and theoretical knowledge in BigCommerce For WordPress. 
+Tools: CMB2, ACF, WPML, OceanWP. 
+Others: WP REST API.<br />
+**Front-end**: HTML5, CSS3, SASS/LESS, JavaScript, TypeScript, React JS, jQuery, GULP/GRUNT, NPM, Bootstrap, and Tailwind CSS.<br />
+**Back-end**: PHP, PSR-4, Composer, REST API, and MySQL.<br />
+**Infra**: Linux sytem, Docker, LocalWP, wp-env, WAMP/LAMP/XAMP, DirectAdmin, Plesk and cPanel.<br />
+**Others**: GIT, GitlLab, DigitalOcean, PhotoShop, Illustrator, Adobe XD, SEO.
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" align="center" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="45" align="center" />&nbsp;
